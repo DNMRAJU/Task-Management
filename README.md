@@ -2,11 +2,11 @@
 
 This Task Management System is a web application developed using React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for the database. The project incorporates user authentication with three roles: customer, employee, and general user.
 
-## 🎯 Getting Started
+
 
 1. __Clone the Repository:__
 
-       https://github.com/Vijayarajvijay/Task-Manager-FE
+       https://github.com/DNMRAJU/Task-Management.git
 2. __Install Dependencies:__
         
                 cd task-management
@@ -35,7 +35,7 @@ This Task Management System is a web application developed using React.js for th
 
  7. __Frontend Source code :__
 
-        https://github.com/Vijayarajvijay/Task-Manager-FE
+        https://github.com/DNMRAJU/Task-Management.git
 
 8. __Netlify Deployed Url For Live:__
 
